@@ -1,0 +1,13 @@
+<view>
+<navigator>
+<view class="logo">
+<image src="../../images/logo.svg" style="width:140rpx;height:60rpx"></image>
+</view>
+<view class="search">
+<image src="../../images/search.png" style="width:60rpx;height:44rpx;"></image>
+</view>
+<view class="download">
+下载 App
+</view>
+</navigator>
+</view>
