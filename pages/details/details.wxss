@@ -1,1 +1,18 @@
-/* pages/details/details.wxss */
+/* 视频 */
+.main{
+  padding:10rpx;
+  color:#666;
+}
+.video_info video{
+  width:100%;
+}
+.video_detail{}
+.video_title{
+  display:flex;
+  justify-content: space-between;
+  font-size:25rpx;
+}
+.video_detail{
+  margin-top: 5rpx;
+}
+.video_detail author{}
